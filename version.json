@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "release_date": "2026-01-19",
+    "repo_url": "https://github.com/holoIntegratedOps/testing",
+    "platforms": {
+        "linux": {
+            "file": "app.deb",
+            "hash": "sha256-...",
+            "download_url": "https://example.com/downloads/linux/app.deb"
+        },
+        "windows": {
+            "file": "app.exe",
+            "hash": "sha256-...",
+            "download_url": "https://example.com/downloads/windows/app.exe"
+        }
+    }
+}
