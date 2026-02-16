@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+.vscode/
+venv/
+env/
+init_project.py
+json/
+*/storage/
+pyside_app_demo.bin
+folder/
+setups/
+
+# PySide6 / Qt Generated Files
+ui_*.py
+rc_*.py
+*_rc.py
+*.user
+
+# Distribution / Packaging
+build/
+dist/
+*.spec
+
+# IDEs and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
