@@ -1,17 +1,15 @@
 {
     "version": "1.0.0",
-    "release_date": "2026-01-19",
-    "repo_url": "https://github.com/holoIntegratedOps/testing",
+    "release_date": "2026-02-17",
+    "repo_url": "https://github.com/holoolagoke/shield-eye-desktop",
     "platforms": {
         "linux": {
-            "file": "app.deb",
-            "hash": "sha256-...",
-            "download_url": "https://example.com/downloads/linux/app.deb"
+            "hash": "5825444f1b7710919301dac93b15de4993c8156a0f9e7fda6d28115151ce9771",
+            "download_url": "https://github.com/holoolagoke/shield-eye-desktop/tree/master/downloads/linux/shieldeye_1.0.0_amd64.deb"
         },
         "windows": {
-            "file": "app.exe",
-            "hash": "sha256-...",
-            "download_url": "https://example.com/downloads/windows/app.exe"
+            "hash": "",
+            "download_url": "https://github.com/holoolagoke/shield-eye-desktop/tree/master/downloads/windows/"
         }
     }
 }
